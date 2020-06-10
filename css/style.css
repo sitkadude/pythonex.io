@@ -1,8 +1,9 @@
-/* Universal-Selectors */
-
+/* -- Universal Selectors -- */
 * {
     box-sizing:border-box;
 }
+
+/* -- Element Selectors -- */
 html {
     font-size: 1rem;
     line-height: 1.4;
@@ -10,23 +11,20 @@ html {
     box-sizing: border-box;
     background-color: black;
 }
-
-/* Element-Selectors */
 body {
     text-align: center;
     width: auto;
     height: auto;
     margin: auto;
 }
-
 path {
     fill: #dedede;
 }
-
 polygon {
     fill: #dedede;
 }
 
+/* -- Class Selectors -- */
 .logo {
     width: 20rem;
     height: auto;
@@ -43,12 +41,9 @@ polygon {
     stroke-miterlimit: 10;
 
 }
-
-/* Fangs Effect */
 .fangs {
     opacity: 0;
 }
-
 .button {
     width: 15rem;
     font-family: monospace;
@@ -58,10 +53,10 @@ polygon {
     opacity: 0.8;
     margin: auto;
     display: block;
-    text-decoration: none;
+    text-decoration: none; d
 }
 
-/* Media Queries */
+/* -- Media Queries -- */
 @media only screen and (min-width: 480px) {
     body {
         text-align: center;
