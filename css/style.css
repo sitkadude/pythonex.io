@@ -12,10 +12,12 @@ html {
     background-color: black;
 }
 body {
+    display: flex;
     text-align: center;
     width: auto;
     height: auto;
     margin: auto;
+    flex-direction: column;
 }
 path {
     fill: #dedede;
@@ -54,6 +56,9 @@ polygon {
     display: block;
     text-decoration: none;
 }
+.content {
+    flex: 1 0 auto;
+}
 .footer {
     width: 15rem;
     font-family: monospace;
@@ -61,9 +66,9 @@ polygon {
     color: #dedede;
     opacity: 0.8;
     margin: auto;
-    margin-top: 10rem;
-    display: block;
+    margin-top: 20rem;
     text-decoration: none;
+    flex-shrink: 0;
 }
 
 /* -- Media Queries -- */
