@@ -12,23 +12,55 @@ body {
     margin: auto;
 }
 
-img {
-    width: 25rem;
+.logo {
+    width: 20rem;
     height: auto;
     padding-top: 10rem;
-    padding-bottom: 5rem;
+    padding-bottom: 2.5rem;
     margin: auto;
     opacity: 0.8;
 }
 
 .button {
-    width: 9rem;
-    font-family: Georgia, 'Times New Roman', Times, serif ;
-    font-size: 1.5rem;
+    width: 20rem;
+    font-family: monospace;
+    font-size: 1.25rem;
     font-weight: bold;
     color: black;
     opacity: 0.8;
     margin: auto;
     display: block;
     text-decoration: none;
+}
+
+/* Media Queries */
+@media only screen and (min-width: 480px) {
+    body {
+        text-align: center;
+        width: auto;
+        height: auto;
+        margin: auto;
+    }
+    .logo {
+        width: 25rem;
+        height: auto;
+    }
+
+    .button {
+        font-size: 1.75rem;
+}
+
+@media only screen and (min-width: 778px),
+        only screen and (min-width:700px) and (orientation: landscape) {
+    .logo {
+        width: 30rem;
+        height: auto;
+        padding-bottom: 5rem;
+    }
+    .button {
+        font-size: 2rem;
+}
+
+@media only screen and (min-width:1140px) {
+
 }
