@@ -39,7 +39,7 @@ polygon {
 .st0 {
     fill: none;
     stroke:#44f4e2;
-    stroke-width: 14;
+    stroke-width: 6;
     stroke-miterlimit: 10;
 
 }
@@ -50,7 +50,7 @@ polygon {
 }
 
 .button {
-    width: 20rem;
+    width: 30rem;
     font-family: monospace;
     font-size: 1.25rem;
     font-weight: bold;
