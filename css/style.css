@@ -22,6 +22,16 @@ body {
     position: relative;
 }
 
+/* Fangs Effect */
+.fangs {
+    opacity: 0;
+}
+
+.fangs:hover {
+    opacity: 1;
+}
+
+
 .button {
     width: 20rem;
     font-family: monospace;
