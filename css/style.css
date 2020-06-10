@@ -19,6 +19,7 @@ body {
     padding-bottom: 2.5rem;
     margin: auto;
     opacity: 0.8;
+    position: relative;
 }
 
 .button {

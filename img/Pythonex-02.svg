@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 24.1.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 576 393.06" style="enable-background:new 0 0 576 393.06;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
-	.st1{font-family:'Abolition-Regular';}
-	.st2{font-size:27.5892px;}
-	.st3{letter-spacing:22.22;}
 </style>
 <g>
 	<g>
 		<polygon class="st0" points="530.07,168.5 428.1,290.41 424.1,322.54 417.87,301.54 369.03,354.72 206.97,354.72 158.13,301.54 
 			151.9,322.54 147.9,290.41 45.93,168.5 101.78,87.36 474.22,87.36 		"/>
 	</g>
-	<text transform="matrix(1.5749 0 0 1 105.2983 62.6213)" class="st1 st2 st3">PYTHONEX</text>
+	<g>
+		<path d="M106.23,41.65h9.43l2.61,1.66v9.27l-2.61,1.66h-5.26v8.39h-4.17V41.65z M114.1,51.48v-7.06l-0.87-0.55h-2.82v8.17h2.82
+			L114.1,51.48z"/>
+		<path d="M160.11,62.62v-6.87l-5.04-14.1h4.47l2.61,10.29l2.61-10.29h4.47l-5.04,14.1v6.87H160.11z"/>
+		<path d="M213.77,43.86v18.76h-4.17V43.86h-3.95v-2.21h12.08v2.21H213.77z"/>
+		<path d="M259.35,50.95h4.39v-9.3h4.17v20.97h-4.17v-9.35h-4.39v9.35h-4.17V41.65h4.17V50.95z"/>
+		<path d="M318.74,60.97l-2.61,1.66h-7.25l-2.61-1.66V43.31l2.61-1.66h7.25l2.61,1.66V60.97z M311.31,43.92l-0.87,0.55v15.34
+			l0.87,0.55h2.39l0.87-0.55V44.47l-0.87-0.55H311.31z"/>
+		<path d="M357.11,41.65h4.52l4.78,14.54V41.65h3.78v20.97h-4.52l-4.78-14.32v14.32h-3.78V41.65z"/>
+		<path d="M408.68,41.65h10.3v2.26h-6.13v6.95h5.34v2.26h-5.34v7.23h6.21v2.26h-10.38V41.65z"/>
+		<path d="M469.77,62.62h-4.17l-2.91-6.79l-2.78,6.79h-4l4.91-10.68l-4.69-10.29h4.17l2.65,6.57l2.61-6.57h4l-4.69,10.29
+			L469.77,62.62z"/>
+	</g>
 </g>
 </svg>
