@@ -28,7 +28,7 @@ polygon {
 .logo {
     width: 20rem;
     height: auto;
-    padding-top: 10rem;
+    padding-top: 6rem;
     padding-bottom: 2.5rem;
     margin: auto;
     opacity: 0.8;
@@ -48,12 +48,22 @@ polygon {
     width: 15rem;
     font-family: monospace;
     font-size: 1rem;
-    font-weight: bold;
     color: #dedede;
     opacity: 0.8;
     margin: auto;
     display: block;
-    text-decoration: none; d
+    text-decoration: none;
+}
+.footer {
+    width: 15rem;
+    font-family: monospace;
+    font-size: 1rem;
+    color: #dedede;
+    opacity: 0.8;
+    margin: auto;
+    margin-top: 10rem;
+    display: block;
+    text-decoration: none;
 }
 
 /* -- Media Queries -- */
