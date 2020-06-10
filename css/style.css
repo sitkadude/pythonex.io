@@ -50,9 +50,9 @@ polygon {
 }
 
 .button {
-    width: 30rem;
+    width: 15rem;
     font-family: monospace;
-    font-size: 1.25rem;
+    font-size: 1rem;
     font-weight: bold;
     color: #dedede;
     opacity: 0.8;
@@ -75,18 +75,19 @@ polygon {
     }
 
     .button {
-        font-size: 1.75rem;
+        font-size: 1.25rem;
+        width: 30rem;
 }
 
 @media only screen and (min-width: 778px),
         only screen and (min-width:700px) and (orientation: landscape) {
     .logo {
-        width: 30rem;
+        width: 35rem;
         height: auto;
         padding-bottom: 5rem;
     }
     .button {
-        font-size: 2rem;
+        font-size: 1.5rem;
 }
 
 @media only screen and (min-width:1140px) {
